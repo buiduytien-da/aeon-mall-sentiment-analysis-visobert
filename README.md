@@ -1,3 +1,4 @@
+**Tiếng Việt** | [English](./README.en.md)
 # Google Maps reviews Sentiment analysis - AEON MALL Long Biên
 
 Phân tích dữ liệu từ ~7.000 đánh giá công khai của khách hàng tại AEON MALL Long Biên trên Google Maps nhằm tìm ra các thời điểm cần cải thiện dịch vụ, đặc điểm nhóm người đánh giá và thái độ thực tế của khách hàng.
