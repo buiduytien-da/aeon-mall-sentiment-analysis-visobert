@@ -28,8 +28,8 @@ Phân tích dữ liệu từ ~7.000 đánh giá công khai của khách hàng t�
 ---
 
 ### 3. Các Insight chính
-* **Phân bổ theo thời gian:** Điểm đánh giá trung bình đạt mức cao nhất vào giữa tuần (Thứ 4 đến Thứ 6: 4.57–4.58 sao) và khung giờ tối (18h–22h: 4.61 sao). Ngược lại, điểm số tụt xuống thấp nhất vào Chủ Nhật (4.46 sao) do lượng khách quá tải cuối tuần làm giảm chất lượng trải nghiệm.
-* **Đặc điểm nhóm người đánh giá:** Nhóm *Trustworthy* (100+ reviews, gần 100% là Local Guides) có tiêu chuẩn đánh giá khắt khe hơn (trung bình 4.50 sao so với 4.61 sao của nhóm Casual/Active) nhưng đáng tin cậy nhất với tỷ lệ đính kèm ảnh thực tế cao nhất (~25%). Nhóm *Newbie* (0–4 reviews) có điểm trung bình thấp nhất (4.28 sao), thường chỉ để lại đánh giá khi gặp trải nghiệm xấu.
+* **Phân bổ theo thời gian:** Điểm đánh giá trung bình đạt mức cao nhất vào giữa tuần (Thứ 4 đến Thứ 6: 4.57-4.58 sao) và khung giờ tối (18h-22h: 4.61 sao). Ngược lại, điểm số tụt xuống thấp nhất vào Chủ Nhật (4.46 sao) do lượng khách quá tải cuối tuần làm giảm chất lượng trải nghiệm.
+* **Đặc điểm nhóm người đánh giá:** Nhóm *Trustworthy* (100+ reviews, gần 100% là Local Guides) có tiêu chuẩn đánh giá khắt khe hơn (trung bình 4.50 sao so với 4.61 sao của nhóm Casual/Active) nhưng đáng tin cậy nhất với tỷ lệ đính kèm ảnh thực tế cao nhất (~25%). Nhóm *Newbie* (0-4 reviews) có điểm trung bình thấp nhất (4.28 sao), thường chỉ để lại đánh giá khi gặp trải nghiệm xấu.
 * **Độ dài review và cảm xúc:** Khách hàng không hài lòng có xu hướng viết dài và chi tiết hơn hẳn để phàn nàn (nhóm review dài có 332 đánh giá tiêu cực, cao gấp 2.7 lần nhóm review ngắn với 123 đánh giá). Các review ngắn đa phần mang tính xã giao và tích cực.
 ---
 
